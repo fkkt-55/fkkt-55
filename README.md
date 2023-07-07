@@ -1,7 +1,9 @@
 ### Hi I'm fkkt-55 👋
 
 - 🔭 I’m currently working on my projects.
-- 🌱 I’m currently learning Kotlin.
+- 🛠️ My job is Android Automotive for JDO now.
+- 🌱 I’m currently learning Kotlin, C++ and Rust.
+- 🏝️ Live in Shanghai, China.
 - 📫 How to reach me: <a href="mailto:morningos@foxmail.com">morningos@foxmail.com</a>
 
 
