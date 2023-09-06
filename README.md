@@ -1,9 +1,9 @@
 # Hi I'm fkkt-55 👋
 
 - 🔭 I’m currently working on my projects.
-- 🛠️ ~~My job is Android Automotive for JDO now.~~
-- 🌱 I’m currently learning Kotlin, C++ and Rust.
-- 🏝️ Live in Shanghai, China.
+- 🛠️ My job is Windows Graphic Program now.
+- 🌱 I’m currently learning C++ and Rust.
+- 🏝️ Live in Xi'an, China.
 - 📫 How to reach me: <admin@catcompany.cn>
 
 ## Stats
